@@ -1,0 +1,7 @@
+## Aufgabe ##
+
+ * Machenn Sie ein neues Projekt undoing, wechseln Sie dahin.
+ * Machen Sie ein Commit, und verwenden Sie den Aufgabentext als Commitmessage.
+ * In Schritt 1 erzeugen wir die 3 Dateien a,b,c beliebigen Inhalts, fügen zu und senden ab (commit).
+ * In Schritt 2 und 3 gehen wir analog vor mit den Dateien d,e,f und g,h,i.
+ * Das Diagramm zeigt den aktuellen Stand, der Masterbranch ist auf step3.
